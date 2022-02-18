@@ -23,7 +23,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![TwitterCloneGif](https://user-images.githubusercontent.com/65835856/154627893-84f2faaa-ad4a-4838-94a6-fe407d5935e1.gif)
 
-![TwitterCloneGif](https://user-images.githubusercontent.com/65835856/154627447-c94b3312-4b7f-451d-9d71-fc1505dd9bef.gif)
 
 
