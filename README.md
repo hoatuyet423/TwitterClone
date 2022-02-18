@@ -24,8 +24,9 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 1st: Tweets show up correctly and able to reload the tweets and log out button worked
+
 2nd: Able to log in to my twitter account and stay with the log in. App icon and launch screen also show up
 
 <img src='https://media.giphy.com/media/wZRPxYEVLu2c6bnbs3/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<img src='hhttps://media.giphy.com/media/466rgaLf7nlP4z1F1x/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='hhttps://media.giphy.com/media/466rgaLf7nlP4z1F1x/giphy.gif' />
