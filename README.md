@@ -26,6 +26,9 @@ Here's a walkthrough of implemented user stories:
 1st gif: Tweets show up correctly and able to reload the tweets and log out button worked
 
 2nd gif: Able to log in to my twitter account and stay with the log in. App icon and launch screen also show up
+![TwitterCloneGif](https://user-images.githubusercontent.com/65835856/154627447-c94b3312-4b7f-451d-9d71-fc1505dd9bef.gif)
+
+
 
 <img src='https://media.giphy.com/media/wZRPxYEVLu2c6bnbs3/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
